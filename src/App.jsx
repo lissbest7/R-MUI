@@ -5,8 +5,8 @@ import AboutPage from './components/pages/about';
 import OurServices from './components/pages/our services';
 import ContactPage from './components/pages/contacts';
 import { Box, Button, Typography, Container } from '@mui/material';
-import Footer from './components/footer';
-import Navbar from './components/navbar';
+import Footer from './components/Footer';
+import Navbar from './components/Navbar';
 
 const App = () => {
   return (
